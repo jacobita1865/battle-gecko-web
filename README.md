@@ -10,7 +10,7 @@ We have created an unofficial website to introduce the Battle Geckos.<br>
 * Bootstrap5
 * Live2D
 ## Link リンク
-Coming Soon
+[バトルゲッコー　非公式サイト](https://jacobita1865.github.io/battle-gecko-web/)
 ## end 終わりに
 This text was translated and prepared by DeepL.<br>
 英文はDeepLで翻訳しました。<br>
